@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App Task</string>
+
+
+    <string name="loading">Loading</string>
+    <string name="try_again_later">Please try again later</string>
+    <string name="weight">Weight:</string>
+    <string name="price">Price:</string>
+    <string name="pound">Pound</string>
+    <string name="kg">Kg</string>
+</resources>
